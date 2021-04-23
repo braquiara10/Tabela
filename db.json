@@ -4,8 +4,8 @@
      { "id": 2, "Titulo": "mochila prill", "codigo": "MP" },
      { "id": 3, "Titulo": "apontador caliu", "codigo": "AC" },
      { "id": 4, "Titulo": "borracha mail", "codigo": "BM" },
-     { "id": 1, "Titulo": "caneta preta", "codigo": "CP" },
-     { "id": 1, "Titulo": "caderneta bege", "codigo": "CB" },
-     { "id": 1, "Titulo": "estojo aliu", "codigo": "EA" }
+     { "id": 5, "Titulo": "caneta preta", "codigo": "CP" },
+     { "id": 6, "Titulo": "caderneta bege", "codigo": "CB" },
+     { "id": 7, "Titulo": "estojo aliu", "codigo": "EA" }
     ]
 }
